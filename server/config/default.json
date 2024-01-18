@@ -1,0 +1,11 @@
+{
+  "mongoDB": {
+    "MONGO_URI": "mongodb://127.0.0.1/easy_english"
+  },
+  "server": {
+    "PORT": 3900
+  },
+  "auth": {
+    "JWT_SECRET": ""
+  }
+}
